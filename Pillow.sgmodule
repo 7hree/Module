@@ -8,8 +8,8 @@
 [Script]
 
 # Revenuecat合集
-Revenuecat合集= type=http-response,requires-body=1,max-size=0,pattern=^https?:\/\/api\.revenuecat\.com\/v1\/(subscribers\/[^\/]+$|receipts$),script-path=https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Revenuecat.js
-{{{Revenuecat}}}= type=http-request,requires-body=0,pattern=^https?:\/\/api\.revenuecat\.com\/v1\/(subscribers\/[^\/]+$|receipts$),script-path=https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Revenuecat.js
+Revenuecat合集= type=http-response,requires-body=1,max-size=0,pattern=^https?:\/\/api\.revenuecat\.com\/v1\/(subscribers\/[^\/]+$|receipts$),script-path=https://raw.githubusercontent.com/7hree/JS/refs/heads/main/Revenuecat.js
+{{{Revenuecat}}}= type=http-request,requires-body=0,pattern=^https?:\/\/api\.revenuecat\.com\/v1\/(subscribers\/[^\/]+$|receipts$),script-path=https://raw.githubusercontent.com/7hree/JS/refs/heads/main/Revenuecat.js
 
 [MITM]
 
