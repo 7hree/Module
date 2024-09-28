@@ -1,7 +1,6 @@
 #!name=Pillow解锁
 #!desc=https://t.me/Guding88
 #!homepage=https://github.com/Guding88/Script/blob/main/Readme.md
-#!category=APP解锁合集-骨钉
 #!arguments=Revenuecat:清缓存
 #!arguments-desc=[参数设置]\n1. Revenuecat: 默认开启清缓存脚本，如需关闭可在属性栏中填写“#”。
 
